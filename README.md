@@ -34,10 +34,10 @@ The computer selects a random number within a range, and you have up to **10 att
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/guess-the-number.git
-2.Navigate to the project folder:
+##2.Navigate to the project folder:
 
   cd guess-the-number
 
-3.Run the game:
+##3.Run the game:
 
   python guess_the_number.py
